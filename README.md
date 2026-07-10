@@ -89,4 +89,4 @@ python menu.py
 ```
 ## Primeira página
 
-![Imagem 1](imagens/image.png)
+![Imagem 1](resources/imagens/image.png)

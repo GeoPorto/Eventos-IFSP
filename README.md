@@ -63,6 +63,10 @@ pip install -r requirements.txt
 
 Abra o **MySQL Workbench** ou o terminal do MySQL e execute o script SQL presente na pasta do projeto (verifique o arquivo de script dentro de `sql - tabelas/`).
 
+### Modelagem de Dados
+
+![Imagem 1](resources/imagens/modelagem.png)
+
 ### Configurar as Variáveis de Ambiente
 
 Na raiz do projeto, altere o arquivo `.env` e adicione as seguintes credenciais para a conexão:
@@ -89,4 +93,4 @@ python menu.py
 ```
 ## Primeira página
 
-![Imagem 1](resources/imagens/image.png)
+![Imagem 2](resources/imagens/image.png)
